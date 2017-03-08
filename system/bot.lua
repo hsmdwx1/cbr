@@ -244,7 +244,7 @@ function create_config( )
     "nerkh"
     },
     vip_users = {}, --vip users
-    sudo_users = {305755551,tonumber(our_id)},--Sudo users
+    sudo_users = {312600226,317576202,315017219,tonumber(our_id)},--Sudo users
     support_gp = {},--Support id
     moderation = {data = 'data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
